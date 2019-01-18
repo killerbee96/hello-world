@@ -1,2 +1,2 @@
 # hello-world
-The intiation for any pragrammer noob, hello-world
+The intiation for any programmer noob, hello-world
